@@ -18,7 +18,7 @@ Welcome to my **Machine Learning Portfolio**, where I showcase my projects in **
 - Identified **factors influencing price**, such as location, amenities, and seasonality.  
 - Created **interactive visualizations** to illustrate patterns in guest preferences.  
 
-📂 **Notebook:** [🔗 Airbnb Analysis]((https://github.com/juandps/juandps.github.io/blob/main/notebooks/Airbnb_Analysis_Notebook.ipynb)
+📂 **Notebook:** [🔗 Airbnb Analysis](https://github.com/juandps/juandps.github.io/blob/main/notebooks/Airbnb_Analysis_Notebook.ipynb)
 
 ---
 
