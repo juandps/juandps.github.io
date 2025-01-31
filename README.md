@@ -18,7 +18,7 @@ Welcome to my **Machine Learning Portfolio**, where I showcase my projects in **
 - Identified **factors influencing price**, such as location, amenities, and seasonality.  
 - Created **interactive visualizations** to illustrate patterns in guest preferences.  
 
-📂 **Notebook:** [🔗 Airbnb Analysis](./notebooks/airbnb_analysis.ipynb)  
+📂 **Notebook:** [🔗 Airbnb Analysis]((https://github.com/juandps/juandps.github.io/blob/main/notebooks/Airbnb_Analysis_Notebook.ipynb))  
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my **Machine Learning Portfolio**, where I showcase my projects in **
 - Compared **Brute-force, Apriori, and FP-Growth** for retail data mining.  
 - Built a **Flask web app** for interactive analysis of frequent itemsets.  
 
-📂 **Notebook:** [🔗 Apriori Algorithm](./notebooks/apriori_from_scratch.ipynb)  
+📂 **Notebook:** [🔗 Apriori Algorithm](https://github.com/juandps/juandps.github.io/blob/main/notebooks/Apriori_algo_notebook.ipynb)  
 
 ---
 
